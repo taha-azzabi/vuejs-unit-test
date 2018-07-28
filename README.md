@@ -1,6 +1,13 @@
-# test-vue-mocha
+# Test VueJs with Mocha, Karma and Chai
 
-> A Vue.js project
+> Karma: is a test runner
+Mocka: is a testing framework for JavaScript.
+Chai : is an assertion library which can be used with Mocha
+1. `describe()` is merely for grouping, which you can nest as deep - test suite
+2. `it()` is a test case
+3. Render HTML in memory(the HTML gets built and the variables in our template) ex:
+ `const ListComponent = new Constructor().$mount();`
+
 
 ## Build Setup
 
