@@ -3,51 +3,16 @@
 
 ---
 
-<h1 id="test-vue-mocha">test-vue-mocha</h1>
-<p>ddd</p>
-<blockquote>
-<p>A Vue.js project</p>
-</blockquote>
-<h2 id="build-setup">Build Setup</h2>
-<h2 id="build-setup-1">Build Setup</h2>
-<pre class=" language-bash"><code class="prism  language-bash">
-<span class="token comment"># install dependencies</span>
-
-<span class="token function">npm</span> <span class="token function">install</span> 
-qsdsqdqs
-
-<span class="token operator">&gt;</span> alert<span class="token punctuation">(</span><span class="token string">'taha'</span><span class="token punctuation">)</span>
-
-  
-
-<span class="token comment"># serve with hot reload at localhost:8080</span>
-
-<span class="token function">npm</span> run dev
-
-  
-
-<span class="token comment"># build for production with minification</span>
-
-<span class="token function">npm</span> run build
-
-  
-
-<span class="token comment"># build for production and view the bundle analyzer report</span>
-
-<span class="token function">npm</span> run build --report
-
-  
-
-<span class="token comment"># run unit tests</span>
-
-<span class="token function">npm</span> run unit
-
-  
-
-<span class="token comment"># run all tests</span>
-
-<span class="token function">npm</span> <span class="token function">test</span>
-
-</code></pre>
-<p>For a detailed explanation on how things work, check out the <a href="http://vuejs-templates.github.io/webpack/">guide</a> and <a href="http://vuejs.github.io/vue-loader">docs for vue-loader</a>.</p>
+<h1 id="alloelectromenager.com"><a href="http://alloelectromenager.com">alloelectromenager.com</a></h1>
+<p>Version 1.0.0</p>
+<p>Nouvelles ajout/modification du code source</p>
+<ul>
+<li>Dossier: <code>resources\views</code></li>
+<li>Nouveau controller <code>CategoriesController.php</code> responsable à l’affichage des pages<br>
+catégories</li>
+<li>Nouveau trait <code>app\Traits\ApiMillionSpare.php</code> communication avec la nouvelle l’API interne</li>
+<li>Fichier routes <code>routes\web.php</code>  ligne 291 jusqu à 311</li>
+</ul>
+<h4 id="aswo-api-documentation">ASWO API Documentation</h4>
+<p><a href="http://shop.euras.com/admin/Dok/eed-doku-eng.php">http://shop.euras.com/admin/Dok/eed-doku-eng.php</a></p>
 
